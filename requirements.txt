@@ -1,0 +1,6 @@
+scapy
+numpy
+keras
+sklearn
+tensorflow
+pydot
